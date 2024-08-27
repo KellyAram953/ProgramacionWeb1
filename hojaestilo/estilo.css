@@ -1,0 +1,23 @@
+h1{
+    color: blue;
+    border: 3px solid rgb(2, 1, 59);
+    background-color: aquamarine;
+}
+
+p{
+     font-size: 15px;
+     border: 1px solid red;
+}
+/* crear clase con .  */
+.parrafoAzul{
+    font-size: 15px;
+    border: 1px solid blueviolet;
+}
+.parrafoDos{
+    color: brown;
+    background-color: chartreuse;
+    border: 2px solid yellowgreen;
+    margin-top: 120px;
+    padding-bottom: 120px;
+    
+}
