@@ -1,0 +1,46 @@
+.tr1{
+    color: blue;
+    border: 5px solid blue;
+    background-color: rgb(127, 182, 255);
+}
+.tr2{
+    color: black;
+    background-color: rgb(255, 0, 119);
+}   
+.tr3{
+    color: black;
+    background-color: rgb(118, 62, 209);
+}   
+.tr4{
+    color: black;
+    background-color: rgb(95, 147, 243);
+}   
+.tr5{
+    color: black;
+    background-color: rgb(101, 214, 135);
+}   
+.tr6{
+    color: black;
+    background-color: rgb(192, 62, 209);
+}   
+.tr7{
+    color: black;
+    background-color: rgb(211, 75, 132);
+}   
+.tr8{
+    color: black;
+    background-color: rgb(218, 92, 92);
+
+}   
+.tr9{
+    color: black;
+    background-color: rgb(228, 219, 139);
+}   
+.tr10{
+    color: black;
+    background-color: rgb(226, 90, 90);
+}  
+.td1{
+   
+    background-color: rgb(242, 245, 244);
+}
