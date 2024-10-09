@@ -1,0 +1,18 @@
+
+.centrado{
+    text-align: center;
+    border: 2px solid rgb(1, 1, 12);
+    padding-left: 1px;
+}
+.fondo1{
+    background: rgb(2,0,36);
+    background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(148,25,214,0.7847514005602241) 35%, rgba(0,212,255,1) 100%);
+}
+.fondo2{
+    background: blue;
+    background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(25,214,209,0.7847514005602241) 35%, rgba(0,212,255,1) 100%);
+}
+.parrafoAzul{
+    font-size: 15px;
+    border: 1px solid rgb(7, 7, 7);
+}
