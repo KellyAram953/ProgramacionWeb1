@@ -19,4 +19,4 @@ CREATE TABLE `alumno`(
 
 ALTER TABLE `alumno` ADD PRIMARY KEY (`numero_cuenta`);
 SHOW TABLE;
-SELECT * FROM `alumno`;
+SELECT * FROM `alumno`
